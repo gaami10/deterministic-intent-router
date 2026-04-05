@@ -1,0 +1,12 @@
+Summarize this document
+Translate this to Hindi
+Evaluate risk of this decision
+Format this dataset
+
+Summarize and translate this
+Translate and format this data
+
+Tell me a joke
+Hello how are you
+
+<empty input>
